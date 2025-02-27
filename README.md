@@ -1,1 +1,2 @@
-# Plant_Disease_Detection
+# Plant_Disease_Classification
+Training on plant disease classification for AICTE
